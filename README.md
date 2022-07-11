@@ -14,6 +14,6 @@ ou seja,  tudo  aquilo  que  utilizamos  e  que  nos  permite  estar  conectados
 - Desenvolver   programas   capazes   de   testar   portas  e   endereçamentos lógicos, de maneira automática e frequente, dentro de uma rede, 
 a fim de identificar possíveis vulnerabilidades.
 - Enviar  e/ou  receber  informações  para  equipamentos  de IoT por  meiode uma porta serial;
-- Direcionar patch ́sde  atualizações  e/ou  correções  de  acordo  com  o sistema  operacional  que  está  sendo  executado  na  máquina  cliente,  
+- Direcionar patch ́s de  atualizações  e/ou  correções  de  acordo  com  o sistema  operacional  que  está  sendo  executado  na  máquina  cliente,  
 sem depender da interatividade dele;
 - IDE PyCharm;
